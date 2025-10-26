@@ -1,4 +1,3 @@
-![Fluxo da jornada do paciente na UPA](fluxo_jornada_upa.png)
 # Jornada do Paciente na UPA
 
 ## Chegada e Acolhimento
