@@ -28,4 +28,4 @@
 
 A análise de 15 pacientes atendidos revela que o principal gargalo do fluxo está relacionado aos **exames laboratoriais**, que quando necessários (**27% dos casos**), elevam o tempo de permanência de aproximadamente **58 minutos para mais de 3 horas** — um aumento de **300% no tempo total**.
 
-![[Mermaid Chart - Create complex, visual diagrams with text.-2025-10-26-001421.png]]
+![Fluxo da jornada na UPA](fluxo_jornada_upa.png)
